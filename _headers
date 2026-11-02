@@ -1,0 +1,5 @@
+# Optional: understood by compatible static hosting services.
+# The Service Worker owns the offline cache; let browsers revalidate deployments.
+/*
+  Cache-Control: no-cache
+  X-Content-Type-Options: nosniff
