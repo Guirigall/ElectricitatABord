@@ -1,6 +1,6 @@
 {
   "repository": "ElectricitatABord",
-  "sourceCommit": "c58cc9291a2e6230171b7f5dbbf117e4359ffb66",
+  "sourceCommit": "d28e12cfaf6bc6ad12841ebe10a412defe12cd97",
   "url": "https://guirigall.github.io/ElectricitatABord/",
   "screenshots": [
     {
@@ -22,6 +22,5 @@
       "pageErrors": []
     }
   ],
-  "publishedStatus": null,
-  "publishedError": "Cannot read properties of undefined (reading 'get')"
+  "publishedStatus": 200
 }
