@@ -1,0 +1,27 @@
+{
+  "repository": "ElectricitatABord",
+  "sourceCommit": "c58cc9291a2e6230171b7f5dbbf117e4359ffb66",
+  "url": "https://guirigall.github.io/ElectricitatABord/",
+  "screenshots": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1050
+      },
+      "title": "A bord · Laboratori elèctric",
+      "pageErrors": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "title": "A bord · Laboratori elèctric",
+      "pageErrors": []
+    }
+  ],
+  "publishedStatus": null,
+  "publishedError": "Cannot read properties of undefined (reading 'get')"
+}
