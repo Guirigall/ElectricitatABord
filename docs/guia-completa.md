@@ -204,7 +204,7 @@ This folder contains the installable version of the sailboat electrical simulato
 4. Configure `sw.js` to be revalidated when publishing changes (`Cache-Control: no-cache`). `_headers` provides this configuration on hosting services that support it; other servers require their own configuration.
 5. Open the HTTPS URL on your phone while connected and wait for the message confirming that the simulator is ready for offline use.
 
-The folder is ready, but **it has not been published**. A link to a file on your computer is not a web address that your phone can access.
+The folder is ready, but **it is available through the README link**. A link to a file on your computer is not a web address that your phone can access.
 
 ### Installing on Android
 
